@@ -8,3 +8,4 @@ En esta unidad básicamente se repasan cada uno de los conceptos más básicos d
 2. Comandos Git + comandos Linux. :computer:
 3. Instrucciones y archivos base en repositorios remotos.:door:
 
+https://candres438.github.io/Aprendiz-Geek_ejercicio-uno/
